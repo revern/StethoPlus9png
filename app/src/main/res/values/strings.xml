@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConductorTest</string>
+    <string name="do_request">do request</string>
+</resources>
